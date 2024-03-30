@@ -17,6 +17,9 @@
 - change db name , username and password from .env 
 - run this command  "php artisan migrate"
 
+# expired otp and expired forget password otp
+- run this command  "php artisan schedule:work"
+
 ---
 
 [![Preview]](https://drive.google.com/file/d/1TdS9xxC49kKdiaP1aQvK_C3FKRdSoEzc/view)

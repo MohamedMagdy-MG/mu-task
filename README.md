@@ -6,6 +6,8 @@
 # To Run Project
 - run command "yarn serve" or "npm run start"
 
+---
+
 ## MU - Backend Task
 
 # To Run Project
@@ -15,5 +17,10 @@
 - change db name , username and password from .env 
 - run this command  "php artisan migrate"
 
-[![Preview](https://drive.google.com/file/d/1TdS9xxC49kKdiaP1aQvK_C3FKRdSoEzc/view)](https://drive.google.com/file/d/1TdS9xxC49kKdiaP1aQvK_C3FKRdSoEzc/view)
+---
+
+[![Preview](https://drive.google.com/file/d/18riqrq4n5A2t3O5RK9_5z0PtT7lOahxy/view)](https://drive.google.com/file/d/1TdS9xxC49kKdiaP1aQvK_C3FKRdSoEzc/view)
+
+---
+
 [Mohamed Magdy](mohamedmagdy2891@gmail.com).

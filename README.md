@@ -19,7 +19,7 @@
 
 ---
 
-[![Preview](https://drive.google.com/file/d/18riqrq4n5A2t3O5RK9_5z0PtT7lOahxy/view)](https://drive.google.com/file/d/1TdS9xxC49kKdiaP1aQvK_C3FKRdSoEzc/view)
+[![Preview]](https://drive.google.com/file/d/1TdS9xxC49kKdiaP1aQvK_C3FKRdSoEzc/view)
 
 ---
 
